@@ -1,7 +1,7 @@
 # scripts
 ## unix
 ### flcs
-command line for list jar files on directory with java class version
+List java class version on alla jar files on directory <path_lib> 
 ```
 usage : flcs '<path_lib>'
 ```
